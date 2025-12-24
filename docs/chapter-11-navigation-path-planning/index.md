@@ -12,14 +12,12 @@ The chapter explores how Isaac enhances traditional navigation approaches throug
 
 ## Chapter Sections
 
-- [Navigation Systems in Robotics Education](./#navigation-systems-in-robotics-education)
+
 - [Isaac Integration with Navigation2 (Nav2)](./nav2-integration)
 - [Path Planning Algorithms in Educational Context](./path-planning-algorithms)
 - [Localization and Mapping in Isaac Environment](./localization-mapping)
 - [Dynamic Environment Navigation](./dynamic-environment-navigation)
 - [Multi-Robot Navigation and Coordination](./multi-robot-navigation)
-- [Quality Validation and Testing in Navigation](./#quality-validation-and-testing-in-navigation)
-- [Considerations for Academic Implementation](./#considerations-for-academic-implementation)
 
 ## Summary
 

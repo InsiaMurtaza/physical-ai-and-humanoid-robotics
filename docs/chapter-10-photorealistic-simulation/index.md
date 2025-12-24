@@ -12,13 +12,13 @@ This chapter examines the concepts and applications of photorealistic simulation
 
 ## Chapter Sections
 
-- [Photorealistic Simulation in Robotics Education](./#photorealistic-simulation-in-robotics-education)
+
 - [Simulation Fidelity and Educational Impact](./simulation-fidelity)
 - [Synthetic Data Generation for Educational Applications](./synthetic-data-generation)
 - [Perception Pipeline Architectures in Educational Context](./perception-pipeline-architectures)
 - [Simulation-to-Reality Transfer in Academic Settings](./sim-to-real-transfer)
 - [Quality Validation and Testing in Simulation](./validation-testing)
-- [Considerations for Academic Implementation](./#considerations-for-academic-implementation)
+
 
 ## Summary
 

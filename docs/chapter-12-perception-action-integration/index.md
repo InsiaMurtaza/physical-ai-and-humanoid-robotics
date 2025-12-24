@@ -17,9 +17,6 @@ The chapter explores how Isaac facilitates the connection between perception sys
 - [Deployment Strategies and Considerations](./deployment-strategies)
 - [Academic Evaluation and Validation Methods](./evaluation-validation)
 - [System Integration Challenges in Academic Settings](./integration-challenges)
-- [Quality Assurance and Testing](./#quality-assurance-and-testing)
-- [Industry Alignment and Career Preparation](./#industry-alignment-and-career-preparation)
-- [Considerations for Academic Implementation](./#considerations-for-academic-implementation)
 
 ## Summary
 
