@@ -84,4 +84,4 @@ The implementation of digital twin technology in robotics education, when proper
 By following the evidence-backed frameworks and methodologies presented in this module, education administrators can make informed decisions that enhance robotics education while maintaining academic excellence and measurable outcomes suitable for peer-reviewed evaluation.
 
 ---
-**Previous**: [Academic Rigor in Simulation Evaluation](./chapter-8-sync/academic-rigor.md) | **Next**: [Module 3: Vision-Language-Action Systems](../chapter-9-vla-intro/index.md)
+**Previous**: [Academic Rigor in Simulation Evaluation](./chapter-8-sync/academic-rigor.md) | **Next**: [Module 3: Vision-Language-Action Systems](./chapter-9-isaac-platform-architecture/index.md)

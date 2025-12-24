@@ -247,7 +247,7 @@ The language perception component integrates with the broader VLA system through
 
 Chapter 13 has provided a comprehensive overview of language perception in VLA systems, covering the conceptual framework, technical implementation, and educational applications. The integration of speech-to-text and natural language understanding technologies with LLMs creates powerful opportunities for educational robotics, while requiring careful attention to academic validation and pedagogical effectiveness.
 
-For a deeper understanding of how cognitive planning builds upon language perception to enable higher-level reasoning and decision-making in VLA systems, please continue to [Chapter 14: Cognitive Planning and Decision Making](./chapter-14-cognitive-planning.md). Chapter 14 explores how the language understanding capabilities developed in this chapter are integrated with planning systems to create sophisticated educational robotics applications.
+For a deeper understanding of how cognitive planning builds upon language perception to enable higher-level reasoning and decision-making in VLA systems, please continue to [Chapter 14: Cognitive Planning and Decision Making](../chapter-14-cognitive-planning/cognitive-planning.md). Chapter 14 explores how the language understanding capabilities developed in this chapter are integrated with planning systems to create sophisticated educational robotics applications.
 
 Cross-references to related content:
 - For information on how perception systems integrate with language understanding, see [Chapter 15: Action Execution and Control](../chapter-15-action-execution/action-execution.md)

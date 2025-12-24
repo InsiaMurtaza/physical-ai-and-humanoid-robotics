@@ -262,7 +262,7 @@ Action execution must integrate seamlessly with other VLA components:
 
 Chapter 15 has provided a comprehensive overview of action execution and control in VLA systems, covering perception-to-action pipeline design, navigation and path planning integration, and manipulation systems. The implementation of effective action execution systems creates opportunities for hands-on learning and kinesthetic education, while requiring careful attention to safety, reliability, and educational effectiveness.
 
-For a complete understanding of how all VLA components integrate in an autonomous humanoid system, please continue to [Chapter 16: System Integration and Autonomous Humanoid Capstone](./chapter-16-system-integration.md). Chapter 16 demonstrates how the action execution capabilities developed in this chapter work together with perception, language understanding, and cognitive planning components.
+For a complete understanding of how all VLA components integrate in an autonomous humanoid system, please continue to [Chapter 16: System Integration and Autonomous Humanoid Capstone](../chapter-16-system-integration/system-integration.md). Chapter 16 demonstrates how the action execution capabilities developed in this chapter work together with perception, language understanding, and cognitive planning components.
 
 Cross-references to related content:
 - For foundational understanding of perception systems that inform action execution, see [Chapter 13: Language Perception in VLA Systems](../chapter-13-language-perception/language-perception.md)

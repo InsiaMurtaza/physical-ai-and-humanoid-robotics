@@ -276,9 +276,9 @@ Successful integration requires coordination of all components:
 Chapter 16 has provided a comprehensive overview of system integration and autonomous humanoid systems in VLA systems, covering integration approaches, humanoid design principles, validation methodologies, and academic rigor. The integration of all VLA components into autonomous humanoid systems represents the pinnacle of educational robotics, offering students opportunities to engage with cutting-edge AI and robotics technology while developing critical thinking, problem-solving, and systems integration skills. This capstone chapter demonstrates how perception, language understanding, cognitive planning, and physical execution work together to create truly intelligent and interactive robotic systems for education.
 
 For a comprehensive understanding of the foundational concepts that lead to this integration, please review:
-- [Chapter 13: Language Perception in VLA Systems](./chapter-13-language-perception.md) for perception and language understanding foundations
-- [Chapter 14: Cognitive Planning and Decision Making](./chapter-14-cognitive-planning.md) for planning and reasoning capabilities
-- [Chapter 15: Action Execution and Control](./chapter-15-action-execution.md) for physical execution and control systems
+- [Chapter 13: Language Perception in VLA Systems](../chapter-13-language-perception/language-perception.md) for perception and language understanding foundations
+- [Chapter 14: Cognitive Planning and Decision Making](../chapter-14-cognitive-planning/cognitive-planning.md) for planning and reasoning capabilities
+- [Chapter 15: Action Execution and Control](../chapter-15-action-execution/action-execution.md) for physical execution and control systems
 
 Cross-references to related content:
 - For detailed component explanations, see [VLA System Components Research](../chapter-14-cognitive-planning/vla-system-components.md)
